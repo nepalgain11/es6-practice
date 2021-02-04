@@ -65,7 +65,7 @@ const studenst = [
 //     console.log(getName);
 // }
 
-const name = studenst.map(sss =>sss.name);
-console.log(name);
+const names = studenst.map(sss =>sss.name);
+console.log(names);
 
 
